@@ -6,7 +6,7 @@ package inventoryapp;
 
 /**
  *
- * @author dhars
+ * @author bhav
  */
 import java.awt.Color;
 import java.sql.SQLException;
